@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KoreaPrototype</string>
+    <string name="go_go_go">GO GO GO!</string>
+
+    <string name="radio_button1_text">RadioButton 1</string>
+    <string name="radio_button2_text">RadioButton 2</string>
+
+    <string name="child_radio_button1_hint">Hint Child 1</string>
+    <string name="child_radio_button2_hint">Hint Child 2</string>
+    <string name="tax_number">Tax Number</string>
+</resources>
